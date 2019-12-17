@@ -1,0 +1,17 @@
+---
+title: "Homework_191217"
+data: "2019/12/17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 統計解析の授業の感想
+
+## irisデータを使ったグラフ描画
+
+```{r iris, echo=TRUE}
+plot(iris)
+```
